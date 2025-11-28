@@ -1,4 +1,4 @@
 packages.txt
-python3.10
-python3.10-dev 
 libgl1
+libglib2.0-0
+
